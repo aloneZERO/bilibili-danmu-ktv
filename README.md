@@ -30,7 +30,8 @@
 ## 注意事项
 
 默认使用了 Windows Media Player 作为播放器，确保 `C:/Program Files (x86)/Windows Media Player/wmplayer.exe` 存在。<br/> 
-非 WINDOWS 平台在  `src/resources/player` 文件中更改配置为 Java 版本的音乐播放器（但是不是很稳定）。
+非 WINDOWS 平台在  `src/resources/player` 文件中更改配置为 Java 版本的音乐播放器（但是不是很稳定）。<br/>
+随着网易云和B站API的升级，本项目已无法正常使用，仅供学习参考。
 
 ## 感谢
 [JSON-java](https://github.com/stleary/JSON-java)<br/> 
